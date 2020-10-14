@@ -17,18 +17,18 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Gvb-hh-PWL">
-                                <rect key="frame" x="119.66666666666669" y="390" width="174.66666666666663" height="116.33333333333331"/>
+                                <rect key="frame" x="119.66666666666667" y="390" width="174.66666666666663" height="116.33333333333331"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CONST" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.34999999999999998" translatesAutoresizingMaskIntoConstraints="NO" id="HgB-N6-kAb">
                                         <rect key="frame" x="0.0" y="0.0" width="174.66666666666666" height="60"/>
                                         <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="50"/>
-                                        <color key="textColor" systemColor="systemGreenColor"/>
+                                        <color key="textColor" systemColor="systemRedColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="RAINTS" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.34999999999999998" translatesAutoresizingMaskIntoConstraints="NO" id="jp2-p4-qWO">
                                         <rect key="frame" x="0.0" y="60" width="174.66666666666666" height="56.333333333333343"/>
                                         <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="47"/>
-                                        <color key="textColor" systemColor="systemRedColor"/>
+                                        <color key="textColor" systemColor="systemGreenColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
